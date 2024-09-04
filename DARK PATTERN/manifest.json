@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Price details",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "icon": {
+        "16": "icon16.png"
+       
+      }
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ]
+  }
